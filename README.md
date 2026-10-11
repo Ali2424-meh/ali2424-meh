@@ -17,7 +17,7 @@
   <a href="https://supply-ordering-jade.vercel.app"><img src="assets/project-02.svg" width="49%" alt="SupplyHub — supply ordering for field cleaners." /></a>
 </p>
 <p>
-  <a href="https://github.com/orgs/TidyDen/projects/6"><img src="assets/project-03.svg" width="49%" alt="TidyDen — a team project in progress." /></a>
+  <a href="https://au.tidyden.com"><img src="assets/project-03.svg" width="49%" alt="TidyDen — book trusted local home cleaners across Australia." /></a>
   <a href="https://www.ijcaonline.org/archives/volume187/number87/ayco-2026-ijca-926514.pdf"><img src="assets/project-04.svg" width="49%" alt="Signify — published research (IJCA 2026): a real-time two-way Filipino Sign Language translation app using a Transformer model." /></a>
 </p>
 
